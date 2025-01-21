@@ -1,0 +1,13 @@
+h1 {
+
+}
+
+body {
+    background-color: green;
+}
+
+@media screen and (max-width: 800px) {
+    .gallery {
+        width: 90%;
+    }
+}
